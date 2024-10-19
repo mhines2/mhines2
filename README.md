@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Hines</h1>
-<h3 align="center">🖥️ A passionate Computer Science major and aspiring software engineer!</h3>
+<h3 align="center">A passionate Computer Science major and aspiring software engineer!</h3>
 
 - 🔭 I’m currently working on **AI Personal Trainer**
 
