@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Design/Analysis of Algorithms, Generative AI**
 
-- 💬 Ask me about **Python, C, Django, and GenAI**
+- 💬 Ask me about **Python, C, Django**
 
 - 📫 How to reach me **mhines2@nd.edu**
 
