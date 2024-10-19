@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **AI Personal Trainer**
 
-- 🌱 I’m currently learning **Design/Analysis of Algorithms, Generative AI**
+- 🌱 I’m currently learning **Design/Analysis of Algorithms and Generative AI**
 
-- 💬 Ask me about **Python, C, Django**
+- 💬 Ask me about **Python, C, and Django**
 
 - 📫 How to reach me **mhines2@nd.edu**
 
