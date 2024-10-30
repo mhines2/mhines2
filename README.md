@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, C, and Django**
 
-- 📫 How to reach me **mhines2@nd.edu**
+- 📫 How to reach me: **mhines2@nd.edu**
 
 - ⚡ Fun fact **I’m a fitness enthusiast, passionate about strength training and powerlifting 🏋️‍♂️💪. I’m always striving to hit new personal records in the gym!**
 
