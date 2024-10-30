@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **mhines2@nd.edu**
 
-- ⚡ Fun fact **I’m a fitness enthusiast, passionate about strength training and powerlifting 🏋️‍♂️💪. I’m always striving to hit new personal records in the gym!**
+- ⚡ Fun fact: **I’m a fitness enthusiast, passionate about strength training and powerlifting 🏋️‍♂️💪. I’m always striving to hit new personal records in the gym!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
