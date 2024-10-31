@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Design/Analysis of Algorithms** to enhance problem-solving efficiency and **Generative AI** for innovative user interaction experiences.
 
-- 💬 Ask me about **programming, my journey at Notre Dame, my music tastes, and my passion for fitness!**
+- 💬 Ask me about **programming**, my journey at **Notre Dame**, my **music** tastes, and my passion for **fitness**!
 
 - 📫 How to reach me: **mhines2@nd.edu**
 
-- ⚡ Fun fact: **I’m a fitness enthusiast, passionate about strength training and powerlifting 🏋️‍♂️💪. I’m always striving to hit new personal records in the gym!**
+- ⚡ Fun fact: I’m a **fitness enthusiast**, passionate about **strength training and powerlifting** 🏋️‍♂️💪. I’m always striving to hit new personal records in the gym!
 
 <h3 align="left">Current/Recent Projects:</h3>
 <ul>
