@@ -14,8 +14,7 @@
 <h3 align="left">Current/Recent Projects:</h3>
 <ul>
   <li><strong>AI Personal Trainer:</strong> Developing a trainer using ChatGPT API for personalized strength/weight training analysis.</li>
-  <li><strong>Wordle Web Application:</strong> Created a Wordle-inspired game using Python, Django, JavaScript, HTML, and CSS, featuring user authentication, gameplay mechanics, player dashboard, and in-game purchases.</li>
-</ul>
+  <li><strong><a href="https://github.com/mhines2/worNDly">Wordle Web Application</a>:</strong> Created a Wordle-inspired game using Python, Django, JavaScript, HTML, and CSS, featuring user authentication, gameplay mechanics, player dashboard, and in-game purchases.</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
