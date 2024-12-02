@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael Hines</h1>
-<h3 align="center">A passionate Computer Science major and aspiring software engineer!</h3>
+<h3 align="center">A passionate Computer Science major at Notre Dame and aspiring software engineer!</h3>
 
 - 🔭 I’m currently working on **AI Personal Trainer** — leveraging LLMs for an AI personal training experience.
 
-- 🌱 I’m currently learning **Design/Analysis of Algorithms** to enhance problem-solving efficiency and **Generative AI** for innovative user interaction experiences.
+- 🌱 I’m currently learning coursework in **Design/Analysis of Algorithms** to enhance problem-solving efficiency and **Generative AI** for innovative user interaction experiences.
 
 - 💬 Ask me about **programming**, my journey at **Notre Dame**, my **music** tastes, and my passion for **fitness**!
 
