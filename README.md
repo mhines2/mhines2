@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning coursework in **Design/Analysis of Algorithms** to enhance problem-solving efficiency and **Generative AI** for innovative user interaction experiences.
 
-- 💬 Ask me about **programming**, my journey at **Notre Dame**, my **music** tastes, and my passion for **fitness**!
+- 💬 Ask me about **Python** programming, my journey at **Notre Dame**, my **music** tastes, and my passion for **fitness**!
 
 - 📫 How to reach me: **mhines2@nd.edu**
 
