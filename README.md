@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI Personal Trainer** — leveraging LLMs for an AI personal training experience.
 
-- 🌱 I’m currently learning coursework in **Design/Analysis of Algorithms** to enhance problem-solving efficiency and **Generative AI** for innovative user interaction experiences.
+- 🌱 I’m currently learning coursework in **Computer Security**, **Human-AI Collaborative Systems**, and **Data Science** to deepen my expertise in cybersecurity, AI-driven user experiences, and data-driven decision-making.
 
 - 💬 Ask me about **Python** programming, my journey at **Notre Dame**, my **music** tastes, and my passion for **fitness**!
 
