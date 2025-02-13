@@ -14,8 +14,8 @@
 <h3 align="left">Current/Recent Projects:</h3>
 <ul>
   <li><strong><a href="https://github.com/mhines2/ai-personal-trainer">AI Personal Trainer</a>:</strong> Developing a trainer using ChatGPT API for personalized strength/weight training analysis.</li>
-  <li><strong><a href="https://github.com/mhines2/valentines-proposal">Valentine Proposal Website</a>:</strong> A fun and interactive Valentine’s Day webpage that playfully asks someone to be your Valentine, complete with animations, background music, and a cheeky "No" button that moves away when hovered over.</li>
-  <li><strong><a href="https://github.com/mhines2/worNDly">Wordle Web Application</a>:</strong> Created a Wordle-inspired game using Python, Django, JavaScript, HTML, and CSS, featuring user authentication, gameplay mechanics, player dashboard, and in-game purchases.</li>
+  <li><strong><a href="https://github.com/mhines2/valentines-proposal">Valentine Proposal Website</a>:</strong> A simple but charming web page built with JavaScript, HTML, and CSS to ask someone special to be your Valentine. Hosted on GitHub Pages.</li>
+  <li><strong><a href="https://github.com/mhines2/worNDly">Wordle Web Application</a>:</strong> A Wordle-inspired game using Python, Django, JavaScript, HTML, and CSS, featuring user authentication, gameplay mechanics, player dashboard, and in-game purchases.</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
