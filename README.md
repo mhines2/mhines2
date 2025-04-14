@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python** programming, my journey at **Notre Dame**, my **music** tastes, and my passion for **fitness**!
 
-- 📫 How to reach me: **mhines2@nd.edu**
+- 📫 How to reach me: **mthines2003@gmail.com**
 
 - ⚡ Fun fact: I’m a **fitness enthusiast**, passionate about **strength training and bodybuilding** 🏋️‍♂️💪. I’m always striving to hit new personal records in the gym!
 
