@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Michael Hines</h1>
 <h3 align="center">A passionate Computer Science major at Notre Dame and aspiring software engineer!</h3>
 
-- 🔭 I’m currently working on **AI Personal Trainer** — leveraging LLMs for an AI personal training experience.
+- 🔭 I'm currently working on **AI Personal Trainer** — leveraging LLMs for an AI personal training experience.
 
-- 🌱 I’m currently learning coursework in **Computer Security**, **Human-AI Collaborative Systems**, and **Data Science** to deepen my expertise in cybersecurity, AI-driven user experiences, and data-driven decision-making.
+- 🌱 I'm currently learning coursework in **Computer Security**, **Human-AI Collaborative Systems**, and **Data Science** to deepen my expertise in cybersecurity, AI-driven user experiences, and data-driven decision-making.
 
 - 💬 Ask me about **Python** programming, my journey at **Notre Dame**, my **music** tastes, and my passion for **fitness**!
 
 - 📫 How to reach me: **mthines2003@gmail.com**
 
-- ⚡ Fun fact: I’m a **fitness enthusiast**, passionate about **strength training and bodybuilding** 🏋️‍♂️💪. I’m always striving to hit new personal records in the gym!
+- ⚡ Fun fact: I'm a **fitness enthusiast**, passionate about **strength training and bodybuilding** 🏋️‍♂️💪. I'm always striving to hit new personal records in the gym!
 
 <h3 align="left">Current/Recent Projects:</h3>
 <ul>
+  <li><strong><a href="https://github.com/mhines2/nutrigo">NutriGo</a>:</strong> An AI-powered dining assistant that helps nutrition-conscious users discover nearby restaurants aligned with their dietary goals.</li>
   <li><strong><a href="https://github.com/mhines2/ai-personal-trainer">AI Personal Trainer</a>:</strong> Developing a trainer using ChatGPT API for personalized strength/weight training analysis.</li>
   <li><strong><a href="https://github.com/mhines2/Michael-Hines">Personal Portfolio Website</a>:</strong> My personal website built with React, showcasing my work, skills, and projects in a clean, responsive design.</li>
   <li><strong><a href="https://github.com/mhines2/valentines-proposal">Valentine Proposal Website</a>:</strong> A simple but charming web page built with JavaScript, HTML, and CSS to ask someone special to be your Valentine. Hosted on GitHub Pages.</li>
   <li><strong><a href="https://github.com/mhines2/worNDly">Wordle Web Application</a>:</strong> A Wordle-inspired game using Python, Django, JavaScript, HTML, and CSS, featuring user authentication, gameplay mechanics, player dashboard, and in-game purchases.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
