@@ -13,8 +13,8 @@
 
 <h3 align="left">Current/Recent Projects:</h3>
 <ul>
-  <li><strong><a href="https://github.com/mhines2/nutrigo">NutriGo</a>:</strong> An AI-powered dining assistant that helps nutrition-conscious users discover nearby restaurants aligned with their dietary goals.</li>
   <li><strong><a href="https://github.com/mhines2/ai-personal-trainer">AI Personal Trainer</a>:</strong> Developing a trainer using ChatGPT API for personalized strength/weight training analysis.</li>
+  <li><strong><a href="https://github.com/mhines2/nutrigo">NutriGo</a>:</strong> An AI-powered dining assistant that helps nutrition-conscious users discover nearby restaurants aligned with their dietary goals.</li>
   <li><strong><a href="https://github.com/mhines2/Michael-Hines">Personal Portfolio Website</a>:</strong> My personal website built with React, showcasing my work, skills, and projects in a clean, responsive design.</li>
   <li><strong><a href="https://github.com/mhines2/valentines-proposal">Valentine Proposal Website</a>:</strong> A simple but charming web page built with JavaScript, HTML, and CSS to ask someone special to be your Valentine. Hosted on GitHub Pages.</li>
   <li><strong><a href="https://github.com/mhines2/worNDly">Wordle Web Application</a>:</strong> A Wordle-inspired game using Python, Django, JavaScript, HTML, and CSS, featuring user authentication, gameplay mechanics, player dashboard, and in-game purchases.</li>
